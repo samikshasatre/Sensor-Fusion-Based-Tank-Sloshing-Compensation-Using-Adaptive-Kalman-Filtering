@@ -26,7 +26,7 @@ A simulation-based sensor fusion system using IMU data and adaptive Kalman filte
 
 <img width="1200" height="600" alt="signals" src="https://github.com/user-attachments/assets/8a09d20d-2fc5-473d-93fc-42430c35f0cb" />
 
-<img width="1200" height="600" alt="Filtering Effect" src="https://github.com/user-attachments/assets/c8a49199-4c39-4931-9644-f112ebb99e46" 
+<img width="1200" height="600" alt="Filtering Effect" src="https://github.com/user-attachments/assets/c8a49199-4c39-4931-9644-f112ebb99e46" />
   
 <img width="1200" height="600" alt="final_plot" src="https://github.com/user-attachments/assets/6117104e-c4fd-43bf-ad97-51789c94c5ca" />
 
